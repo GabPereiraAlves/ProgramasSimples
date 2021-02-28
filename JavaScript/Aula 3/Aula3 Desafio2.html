@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 2</title>
+    <script>
+    	let salario, porcentagem, aumento, novoSalario;
+    	salario = parseFloat(prompt("digite o valor do salario:",""));
+    	porcentagem = parseFloat(prompt("digite a % de aumento do salario:",""));
+    	aumento = salario * (porcentagem/100);
+    	novoSalario = salario + aumento;
+
+    	document.write("o aumento será de : " + aumento.toFixed(2) + " reais, ");
+    	document.write("o novo salario será : " + novoSalario.toFixed(2) +" reais");
+    </script>
+</head>
+<body>
+
+</body>
+</html>

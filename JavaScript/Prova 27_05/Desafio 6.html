@@ -1,0 +1,50 @@
+<!-- Desafio 6
+Gabriel Pereira Alves -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 6</title>
+    <script>
+        //Declarar variaveis
+        let num1, num2, operador, resultado;
+        //receber valores
+        num1 = parseFloat(prompt("Calculadora!","Digite o primerio número"));
+        operador = parseInt(prompt("Escolha um operador: \n 1) Soma \n 2) Subtração \n 3) Multiplicação \n 4) Divisão",""));
+        num2 = parseFloat(prompt("Digite o segundo número",""));
+        //Verificar qual operador deve ser utilizado
+        switch(operador){
+            case 1:
+            //caso soma
+                resultado = num1 + num2;
+                break;
+            case 2:
+            //caso subtração
+                resultado = num1 - num2;
+                break;
+            case 3:
+            //caso multiplicação
+                resultado = num1 * num2;
+                break;
+            case 4:
+            //caso divisão
+                if((num1 == 0) || (num2 == 0)){
+                    //se um dos valores for igual a zero negar o calculo
+                    document.write("Não é possivel dividir por zero! Aperte F5 e escolha outro numero.");
+                    resultado = "Nulo";
+                    break;
+                }
+                else{
+                    resultado = num1 / num2;
+                    break;
+                }        
+        }
+        //exibir resultado
+        document.write("Resultado: "+resultado);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

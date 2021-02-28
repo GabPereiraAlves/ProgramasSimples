@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 3</title>
+    <script>
+        let num1, num2, operador, resultado;
+        num1 = parseFloat(prompt("Calculadora!","Digite o primerio número"));
+        operador = parseInt(prompt("Escolha um operador: \n 1) Soma \n 2) Subtração \n 3) Multiplicação \n 4) Divisão",""));
+        num2 = parseFloat(prompt("Digite o segundo número",""));
+        switch(operador){
+            case 1:
+                resultado = num1 + num2;
+                break;
+            case 2:
+                resultado = num1 - num2;
+                break;
+            case 3:
+                resultado = num1 * num2;
+                break;
+            case 4:
+                resultado = num1 / num2;
+                break;        
+        }
+        document.write("Resultado: "+resultado);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
