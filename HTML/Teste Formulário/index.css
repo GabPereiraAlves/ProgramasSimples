@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(150, 178, 201);
+}
+h1{
+    text-align: center;
+}
+.Identificação{
+    width: 35%;
+    margin: 0 auto;
+    background-image: url(imagens/icone-contato.png);
+    background-repeat: no-repeat;
+    background-position: 90% 90%;
+}
+.Endereço{
+    width: 35%;
+    margin: 0 auto;
+    background-image: url(imagens/icone-endereco.png);
+    background-repeat: no-repeat;
+    background-position: 90% 90%;
+}
+.Mensagem{
+    width: 35%;
+    margin: 0 auto;
+    background-image: url(imagens/icone-mensagem.png);
+    background-repeat: no-repeat;
+    background-position: 90% 90%;
+}
+.Pagamento{
+    width: 40%;
+    margin: 0 auto;
+    background-image: url(imagens/icone-pagamento.png);
+    background-repeat: no-repeat;
+    background-position: 90% 90%;
+}

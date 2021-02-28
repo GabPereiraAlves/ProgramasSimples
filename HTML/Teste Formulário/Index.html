@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Cadastro</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1>Formulario de cadastro</h1>
+    <center><p>*Este formulario serve como um pré cadastro em nossos sistemas para reservas de ingressos. Posteriormente entraremos
+        em contato para evitar fraudes. Após o cadastro, verifique sua caixa de email e aguarde o contato da equipe.</center>
+    </p>
+    <div class="Identificação">
+        <fieldset>
+            <legend>Identificação do usuário:</legend>
+        <form>
+            <p>Nome: <input size="32" type="text" required></p>
+            <p>Senha: <input size="32" type="password" required></p>
+            <p>Email: <input size="32" type="email" required></p>
+            <p>Nascimento: <input size="30" type="date"></p>
+            <fieldset>
+                <legend>
+                    Sexo:
+                </legend>
+                <label>
+                    <p><input type="radio" name="rdSexo" required>Masculino</p>
+                </label>
+                <label>
+                    <p><input type="radio" name="rdSexo" required>Feminino</p>
+                </label>
+                <label>
+                    <p><input type="radio" name="rdSexo" required>Outro</p>
+                </label>
+            </fieldset>
+        </form>
+    </fieldset>
+    </div>
+
+    <div class="Endereço">
+        <fieldset>
+            <legend>Endereço do usuário:</legend>
+        <form>
+            <p>Rua: <input size="32" type="text" required></p>
+            <p>Número: <input size="10" type="number" required></p>
+            <p>Estado: <select>
+                <option value="sp">São Paulo</option>
+                <option value="rj">Rio de Janeiro</option>
+                <option value="mg">Minas Gerais</option>
+                <option value="rs">Rio Grande do Sul</option>
+                <option value="rn">Rio Grande do Norte</option>
+            </select></p>
+            <p>Cidade: <input size="29" type="Text"></p>
+        </form>
+    </fieldset>
+    </div>
+
+    <div class="Mensagem">
+        <fieldset>
+            <legend>Mensagem:</legend>
+        <form>
+            <p>Grau de Interesse: <input size="32" type="number" required></p>
+            <p>Mensagem: <textarea cols="40" rows="6" placeholder="Deixe uma mensagem para nós!"></textarea></p>
+        </form>
+    </fieldset>
+    </div>
+
+    <div class="Pagamento">
+        <fieldset>
+            <legend>Forma de Pagamento:</legend>
+        <form>
+            <p><input type="checkbox"> Confirmo meu interesse em adquirir ingressos para a copa so mundo 2014!  </p>
+        </form>
+        <fieldset>
+            <legend>Dados de Pagamento:</legend>
+            <P>Titular do Cartão:<input size="30" type="text" required></P>
+            <p>Numero do Cartão: <input size="40" type="number" required></p>
+            <p>Vencimento: <input placeholder="Mês" type="number" required>/<input placeholder="Ano" type="number" required></p>
+            <label>
+            <p><input name="bandCartao" type="radio">Visa</p>
+            </label>
+            <label>
+            <p><input name="bandCartao" type="radio">Mastercard</p>
+            </label>
+            <label>
+            <p><input name="bandCartao" type="radio">Elo</p>
+            </label>
+            <label>
+            <p><input name="bandCartao" type="radio">Hipercard</p>
+            </label>
+            <label>
+            <p><input name="bandCartao" type="radio">Diner's Club</p>
+            </label>
+            <label>
+            <p><input name="bandCartao" type="radio">American Express</p>
+            </label>
+        </fieldset>
+    </fieldset>
+    </div>
+    <center>
+        <button><img src="Imagens/botao-cancelar1.png"></button>
+        <button><img src="imagens/botao-enviar1.png"></button></center>
+</body>
+</html>
