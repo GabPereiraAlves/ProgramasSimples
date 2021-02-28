@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Documents\ETEC\TP\ListagemFuncionarios\ListagemFuncionarios\obj\Debug\ListagemFuncionarios.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\ETEC\TP\ListagemFuncionarios\ListagemFuncionarios\obj\Debug\ListagemFuncionarios.MainForm.resources
+C:\Users\Gabriel\Documents\ETEC\TP\ListagemFuncionarios\ListagemFuncionarios\obj\Debug\ListagemFuncionarios.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\ETEC\TP\ListagemFuncionarios\ListagemFuncionarios\bin\Debug\ListagemFuncionarios.exe
+C:\Users\Gabriel\Documents\ETEC\TP\ListagemFuncionarios\ListagemFuncionarios\bin\Debug\ListagemFuncionarios.pdb
+C:\Users\Gabriel\Documents\ETEC\TP\ListagemFuncionarios\ListagemFuncionarios\obj\Debug\ListagemFuncionarios.exe
+C:\Users\Gabriel\Documents\ETEC\TP\ListagemFuncionarios\ListagemFuncionarios\obj\Debug\ListagemFuncionarios.pdb

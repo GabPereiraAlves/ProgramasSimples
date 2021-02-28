@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Documents\ETEC\TP\Listagem Carros\Listagem Carros\bin\Debug\Listagem Carros.exe
+C:\Users\Gabriel\Documents\ETEC\TP\Listagem Carros\Listagem Carros\bin\Debug\Listagem Carros.pdb
+C:\Users\Gabriel\Documents\ETEC\TP\Listagem Carros\Listagem Carros\obj\Debug\Listagem Carros.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\ETEC\TP\Listagem Carros\Listagem Carros\obj\Debug\Listagem_Carros.MainForm.resources
+C:\Users\Gabriel\Documents\ETEC\TP\Listagem Carros\Listagem Carros\obj\Debug\Listagem Carros.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\ETEC\TP\Listagem Carros\Listagem Carros\obj\Debug\Listagem Carros.exe
+C:\Users\Gabriel\Documents\ETEC\TP\Listagem Carros\Listagem Carros\obj\Debug\Listagem Carros.pdb

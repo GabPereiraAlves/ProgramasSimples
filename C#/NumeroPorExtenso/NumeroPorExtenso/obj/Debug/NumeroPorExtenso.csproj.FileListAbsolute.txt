@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Documents\ETEC\TP\NumeroPorExtenso\NumeroPorExtenso\bin\Debug\NumeroPorExtenso.exe
+C:\Users\Gabriel\Documents\ETEC\TP\NumeroPorExtenso\NumeroPorExtenso\bin\Debug\NumeroPorExtenso.pdb
+C:\Users\Gabriel\Documents\ETEC\TP\NumeroPorExtenso\NumeroPorExtenso\obj\Debug\NumeroPorExtenso.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\ETEC\TP\NumeroPorExtenso\NumeroPorExtenso\obj\Debug\NumeroPorExtenso.MainForm.resources
+C:\Users\Gabriel\Documents\ETEC\TP\NumeroPorExtenso\NumeroPorExtenso\obj\Debug\NumeroPorExtenso.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\ETEC\TP\NumeroPorExtenso\NumeroPorExtenso\obj\Debug\NumeroPorExtenso.exe
+C:\Users\Gabriel\Documents\ETEC\TP\NumeroPorExtenso\NumeroPorExtenso\obj\Debug\NumeroPorExtenso.pdb

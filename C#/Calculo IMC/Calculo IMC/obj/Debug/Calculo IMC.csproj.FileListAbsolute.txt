@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Documents\ETEC\TP\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\ETEC\TP\Calculo IMC\Calculo IMC\obj\Debug\Calculo_IMC.MainForm.resources
+C:\Users\Gabriel\Documents\ETEC\TP\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\ETEC\TP\Calculo IMC\Calculo IMC\bin\Debug\Calculo IMC.exe
+C:\Users\Gabriel\Documents\ETEC\TP\Calculo IMC\Calculo IMC\bin\Debug\Calculo IMC.pdb
+C:\Users\Gabriel\Documents\ETEC\TP\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.exe
+C:\Users\Gabriel\Documents\ETEC\TP\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.pdb

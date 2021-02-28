@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo IMC", "Calculo IMC\Calculo IMC.csproj", "{CFC069F1-0D5B-4A23-A007-89467BA49A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC069F1-0D5B-4A23-A007-89467BA49A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC069F1-0D5B-4A23-A007-89467BA49A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC069F1-0D5B-4A23-A007-89467BA49A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC069F1-0D5B-4A23-A007-89467BA49A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
