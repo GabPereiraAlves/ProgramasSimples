@@ -1,0 +1,22 @@
+body{
+    background-color: navajowhite;
+}
+.Display{
+    width: 50px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.alinhadoEsquerda{
+    float:right;
+}
+.acc{
+    width: 250px;
+    margin-left: 10px;
+}
+a{
+    margin-right: 50px;
+}
